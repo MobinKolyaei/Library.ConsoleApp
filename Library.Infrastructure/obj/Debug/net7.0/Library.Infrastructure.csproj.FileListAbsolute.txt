@@ -1,0 +1,15 @@
+C:\CSharpPractice\Library.ConsoleApp\Library\Library.Infrastructure\bin\Debug\net7.0\Library.Infrastructure.deps.json
+C:\CSharpPractice\Library.ConsoleApp\Library\Library.Infrastructure\bin\Debug\net7.0\Library.Infrastructure.dll
+C:\CSharpPractice\Library.ConsoleApp\Library\Library.Infrastructure\bin\Debug\net7.0\Library.Infrastructure.pdb
+C:\CSharpPractice\Library.ConsoleApp\Library\Library.Infrastructure\bin\Debug\net7.0\Library.Core.dll
+C:\CSharpPractice\Library.ConsoleApp\Library\Library.Infrastructure\bin\Debug\net7.0\Library.Core.pdb
+C:\CSharpPractice\Library.ConsoleApp\Library\Library.Infrastructure\obj\Debug\net7.0\Library.Infrastructure.csproj.AssemblyReference.cache
+C:\CSharpPractice\Library.ConsoleApp\Library\Library.Infrastructure\obj\Debug\net7.0\Library.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharpPractice\Library.ConsoleApp\Library\Library.Infrastructure\obj\Debug\net7.0\Library.Infrastructure.AssemblyInfoInputs.cache
+C:\CSharpPractice\Library.ConsoleApp\Library\Library.Infrastructure\obj\Debug\net7.0\Library.Infrastructure.AssemblyInfo.cs
+C:\CSharpPractice\Library.ConsoleApp\Library\Library.Infrastructure\obj\Debug\net7.0\Library.Infrastructure.csproj.CoreCompileInputs.cache
+C:\CSharpPractice\Library.ConsoleApp\Library\Library.Infrastructure\obj\Debug\net7.0\Library.Infrastructure.csproj.CopyComplete
+C:\CSharpPractice\Library.ConsoleApp\Library\Library.Infrastructure\obj\Debug\net7.0\Library.Infrastructure.dll
+C:\CSharpPractice\Library.ConsoleApp\Library\Library.Infrastructure\obj\Debug\net7.0\refint\Library.Infrastructure.dll
+C:\CSharpPractice\Library.ConsoleApp\Library\Library.Infrastructure\obj\Debug\net7.0\Library.Infrastructure.pdb
+C:\CSharpPractice\Library.ConsoleApp\Library\Library.Infrastructure\obj\Debug\net7.0\ref\Library.Infrastructure.dll
