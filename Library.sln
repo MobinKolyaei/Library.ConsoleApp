@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.ConsoleApp", "Library.ConsoleApp\Library.ConsoleApp.csproj", "{7A599F72-1A88-428F-9EC3-7F8A2C21D974}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library.ConsoleApp", "Library.ConsoleApp\Library.ConsoleApp.csproj", "{7A599F72-1A88-428F-9EC3-7F8A2C21D974}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Domain", "1-Domain", "{A26A7119-F24B-4F41-9A38-51DBFBF103E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.Core", "Library.Core\Library.Core.csproj", "{BAA64090-2FAA-47DF-A8FC-1DEC0EFED5A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library.Core", "Library.Core\Library.Core.csproj", "{BAA64090-2FAA-47DF-A8FC-1DEC0EFED5A1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Infrastructure", "2-Infrastructure", "{EEE6A620-08B4-4DD0-B4DD-D772E8CD7731}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.Infrastructure", "Library.Infrastructure\Library.Infrastructure.csproj", "{FD57C10E-B570-4F9C-A3A9-B646D131277D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Library.Infrastructure", "Library.Infrastructure\Library.Infrastructure.csproj", "{FD57C10E-B570-4F9C-A3A9-B646D131277D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3-Application", "3-Application", "{D1BF9172-07D2-4327-8672-3ADA205B5220}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,6 +38,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{7A599F72-1A88-428F-9EC3-7F8A2C21D974} = {D1BF9172-07D2-4327-8672-3ADA205B5220}
 		{BAA64090-2FAA-47DF-A8FC-1DEC0EFED5A1} = {A26A7119-F24B-4F41-9A38-51DBFBF103E2}
 		{FD57C10E-B570-4F9C-A3A9-B646D131277D} = {EEE6A620-08B4-4DD0-B4DD-D772E8CD7731}
 	EndGlobalSection
